@@ -21,4 +21,4 @@ else
 
 //type coercion is when Javascript assumes a lot of things and converts it automatically for you, like 
 // "2" and 2 when comapred using '==' will give true value
-// use '===' to avoid the wrong output. 
+// use '===' to avoid the wrong output as this compares data-type as well. 
