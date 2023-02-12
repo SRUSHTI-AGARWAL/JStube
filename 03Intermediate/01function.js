@@ -5,7 +5,7 @@ function sayHello(name){
 
 }
 
-// sayHello(); // value when not given says undefined. 
+// sayHello(); // value when not given says undefin bbnjobed. 
 // sayHello("Srishti")
 
 // We call a function by using (), and refer a function by using Just its name. 

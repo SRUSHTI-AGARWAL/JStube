@@ -1,0 +1,27 @@
+Global Context and Execution Context: 
+
+in JS a global context is always available  but differs when code is ran in Node.js and when in browser.
+ This is responsible for registering all the data inside context. In browser, " window " is global context.
+
+// Once the function is registered then that function is wrapped-up and put inside Global Context. So when the code 
+// is executed, it is aware of those functions executed.
+> Global Context collects the information. 
+
+
+Execution context can come with every line of code and not only with function. 
+Execution context can appear for a line of code or it can appear for entire block of function.Once execution is done thenit will go away. 
+
+Execution Context : 
+
+> Variable object
+> Scope chain 
+> this keyword
+
+2 Rules in execution context
+
+1- Function declaration are scanned and made available. (global context scans the entire code and if there is a function it takes it at some place and make it available for entire code)
+2- Variable declarations are also scanned and made undefined. 
+
+
+
+

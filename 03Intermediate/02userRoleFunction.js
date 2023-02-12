@@ -43,4 +43,4 @@ console.log(getUserRole("Twinkle","subadmin"))
 
 // var justArrow = getUserRole =>(user, role){
 
-// }
+// }     This was arrow function. 
