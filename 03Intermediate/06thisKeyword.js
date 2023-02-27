@@ -9,12 +9,12 @@ console.log(this)
 
 
 
-// function sayName(){
+function sayName(){
 
-//     var name = " Srishti "
-//     console.log(this)
-// }
+    var name = " Srishti "
+    console.log(this)
+}
 
-// sayName();
+sayName();
 
 
